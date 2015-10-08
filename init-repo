@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/pxlphile/[newGitHubRepo].git
+echo "#newGitHubRepo" >README.md
+echo "Erklärbär" >>README.md
+git add README.md
+git commit -am "Initialer commit"
+git push --set-upstream origin master
