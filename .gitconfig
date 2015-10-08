@@ -1,0 +1,20 @@
+[user]
+	name = PxlPhile
+	email = REDACTED
+[credential]
+	helper = wincred
+[core]
+	autocrlf = false
+[color]
+	filemode = false
+	diff = auto
+	status = auto
+	branch = auto
+	pager = true
+	ui = auto
+[branch]
+	autosetuprebase = always
+[push]
+	default = simple
+
+
